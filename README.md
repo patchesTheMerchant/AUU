@@ -10,14 +10,18 @@ Among Us Undetectable (AUU) is a demonstration of how simple memory reading tech
 - **Role Detection:** Identifies player roles through memory reading, press 1 on the keyboard after you enter a lobby.
 - **Stealth Mode:** Designed to avoid detection by common anti-cheat systems.
 - **Panic Mode:** Press 9 to delete the cheat file, pross 0 to close it.
+- You can run the cheat by only downloading the relesase file and running it on your PC.
 
 ![Start](https://github.com/patchesTheMerchant/AUU/assets/169628962/b4ec540d-7825-45df-8bd5-022c9c30c417)
 ![Working](https://github.com/patchesTheMerchant/AUU/assets/169628962/c6f8bcbc-cc13-4475-b6ff-f43bec9ee446)
 
 ## Prerequisites
-Before you run AUU, you will need:
+Before you modify AUU, you will need:
 - Python 3.8 or higher
-- Access to a development environment where you have permissions to read memory.
+- pyinstaller if you want to create a .exe file
+- tkinter for the GUI
+- pymem to read memory
+- Access to a development environment where you have permissions to read memory
 
 ## Installation
 - Clone the repository locally using git clone https://github.com/patchesTheMerchant/AUU.git
