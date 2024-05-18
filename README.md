@@ -1,8 +1,5 @@
 # Among Us Undetectable (AUU)
 
-## Disclaimer
-This project is created for educational purposes only. The techniques and code discussed here are meant to provide insights into game development and anti-cheat mechanisms. This is not intended for use in actual gameplay or to disrupt the gaming experience of others.
-
 ## Overview
 Among Us Undetectable (AUU) is a demonstration of how simple memory reading techniques can be utilized to identify player roles in the game "Among Us" without detection. The purpose of this project is to explore the challenges and techniques involved in creating and detecting cheats in video games.
 
@@ -16,6 +13,8 @@ Among Us Undetectable (AUU) is a demonstration of how simple memory reading tech
 <img width="364" alt="Start" src="https://github.com/patchesTheMerchant/AUU/assets/169628962/42d3cdb6-af55-4dfa-a673-7848e8da23af">
 <img width="362" alt="running" src="https://github.com/patchesTheMerchant/AUU/assets/169628962/199fe3c5-cfa7-41bd-82e9-999ae62a0b7c">
 
+## Download
+you can download this cheat from releases on the right =>
 
 ## Prerequisites
 Before you modify AUU, you will need:
@@ -31,6 +30,9 @@ Before you modify AUU, you will need:
 - Or you can just download the launch.exe file from releases and use it.
 - Ensure that you are in a controlled environment meant for testing and educational purposes.
 - To generate EXE file: pyinstaller --onefile --windowed --clean -F -w --add-data "Polus.png;." AUU.py 
+
+## Disclaimer
+This project is created for educational purposes only. The techniques and code discussed here are meant to provide insights into game development and anti-cheat mechanisms. This is not intended for use in actual gameplay or to disrupt the gaming experience of others.
 
 ## Contributing
 - Contributions to this project are welcome, especially from those who are looking to improve game security and understand anti-cheat mechanisms. To contribute, please fork the repository and submit a pull request.
