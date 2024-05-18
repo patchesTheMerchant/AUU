@@ -9,11 +9,13 @@ Among Us Undetectable (AUU) is a demonstration of how simple memory reading tech
 ## Features
 - **Role Detection:** Identifies player roles through memory reading, press 1 on the keyboard after you enter a lobby.
 - **Stealth Mode:** Designed to avoid detection by common anti-cheat systems.
+- **Radar:** Will display a radar of where players are on the map.
 - **Panic Mode:** Press 9 to delete the cheat file, pross 0 to close it.
 - You can run the cheat by only downloading the relesase file and running it on your PC.
 
-![Start](https://github.com/patchesTheMerchant/AUU/assets/169628962/b4ec540d-7825-45df-8bd5-022c9c30c417)
-![Working](https://github.com/patchesTheMerchant/AUU/assets/169628962/c6f8bcbc-cc13-4475-b6ff-f43bec9ee446)
+<img width="364" alt="Start" src="https://github.com/patchesTheMerchant/AUU/assets/169628962/42d3cdb6-af55-4dfa-a673-7848e8da23af">
+<img width="362" alt="running" src="https://github.com/patchesTheMerchant/AUU/assets/169628962/199fe3c5-cfa7-41bd-82e9-999ae62a0b7c">
+
 
 ## Prerequisites
 Before you modify AUU, you will need:
@@ -28,6 +30,7 @@ Before you modify AUU, you will need:
 - Install the needed dependencies and run! 
 - Or you can just download the launch.exe file from releases and use it.
 - Ensure that you are in a controlled environment meant for testing and educational purposes.
+- To generate EXE file: pyinstaller --onefile --windowed --clean -F -w --add-data "Polus.png;." AUU.py 
 
 ## Contributing
 - Contributions to this project are welcome, especially from those who are looking to improve game security and understand anti-cheat mechanisms. To contribute, please fork the repository and submit a pull request.
