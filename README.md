@@ -2,6 +2,7 @@
 
 ## Overview
 Among Us Undetectable (AUU) is a demonstration of how simple memory reading techniques can be utilized to identify player roles in the game "Among Us" without detection. The purpose of this project is to explore the challenges and techniques involved in creating and detecting cheats in video games.
+This is a cheat for the game among us in the latest version and only works on Steam for now.
 
 ## Features
 - **Role Detection:** Identifies player roles through memory reading, press 1 on the keyboard after you enter a lobby.
